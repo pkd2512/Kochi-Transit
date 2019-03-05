@@ -1,0 +1,44 @@
+route_id,Route Name
+FOU01,Vytilla - Kakkanad
+FOD01,Kakkanad - Vytilla
+FOU02,Ernakulam - Varappuzha
+FOD02,Varappuzha - Ernakulam
+FOU03,Varappuzha - Chitoor
+FOD03,Chitoor - Varappuzha
+FOU04,Chitoor - Kadamakudy
+FOD04,Kadamakudy - Chitoor
+FOU05,Ernakulam - Terminals (Embarkation)
+FOD05,Terminals - Ernakulam (Embarkation)
+FOU06,Terminals - Ernakulam
+FOD06,Ernakulam - Terminals
+FOU07,Fort Kochi - Ernakulam
+FOD07,Ernakulam - Fort Kochi
+FOU08,Fort Kochi - Ernakulam (Embarkation)
+FOD08,Ernakulam - Fort Kochi (Embarkation)
+FOU09,Ernakulam - Mattancherry
+FOD09,Mattancherry - Ernakulam
+FOU10,Ernakulam - Mulavukadu North
+FOD10,Mulavukadu North - Ernakulam
+FOU11,Mulavukadu North - High Court
+FOD11,High Court - Mulavukadu North
+FOU12,High Court - Kuramkottai
+FOD12,Kuramkottai - High Court
+FOU13,High Court - Mulavukadu Panchayat
+FOD13,Mulavukadu Panchayat - High Court
+FOU14,High Court - Thaathonnithuruthu
+FOD14,Thaathonnithuruthu - High Court
+FOU15,Vyppin - Ernakulam
+FOD15,Ernakulam - Vyppin
+FOU16,Vyppin - Ernakulam (Embarkation)
+FOD16,Ernakulam - Vyppin (Embarkation)
+FOU17,Vyppin - Ernakulam (Fort Kochi)
+FOD17,Ernakulam - Vyppin (Fort Kochi)
+FVU01,Ernakulam - Fort Kochi (Vega)
+FVD01,Fort Kochi - Ernakulam (Vega)
+FVU02,Ernakulam - Vaikom (Vega)
+FVD02,Vaikom - Ernakulam (Vega)
+FOU18,Mulavukadu Panchayat - Mulavukadu North
+FOU19,Vyppin - Embarkation
+FOD19,Embarkation - Vyppin
+FOU20,Ernakulam - Mattancherry (Embarkation)
+FOD20,Mattancherry - Ernakulam (Embarkation)

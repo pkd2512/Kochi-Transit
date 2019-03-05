@@ -1,0 +1,10 @@
+Parking API
+
+Url:
+https://pinnpark.com/pm/api/ParkingSpaces/kmrl/availability/
+
+Key
+Authorization
+
+Value
+5c501f7396f896401d386c13rr1E4mMHbfMss3gJNEOcyZ5JjgOFpLfp
